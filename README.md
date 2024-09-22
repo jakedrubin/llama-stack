@@ -61,3 +61,8 @@ pip install -e .
 ## The Llama CLI
 
 The `llama` CLI makes it easy to work with the Llama Stack set of tools, including installing and running Distributions, downloading models, studying model prompt formats, etc. Please see the [CLI reference](docs/cli_reference.md) for details.
+
+## Resources
+* [Getting Started](docs/getting_started.md)
+* [CLI reference](docs/cli_reference.md)
+* [RFC](rfcs/RFC-0001-llama-stack.md)
